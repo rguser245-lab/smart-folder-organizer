@@ -21,11 +21,14 @@ Script ini juga dilengkapi fitur **Auto-Startup**. Begitu dijalankan pertama kal
 
 ---
 
-## ⚙️ Cara Pakai & Kustomisasi (WAJIB BACA)
+## ⚙️ Cara Pakai (Plug and Play!)
 
-Sebelum menjalankan script, ada satu bagian kode yang **wajib** disesuaikan dengan jalur folder komputer kamu:
+Script ini sudah dioptimalkan agar bisa langsung mendeteksi folder `Downloads` pada komputer siapa pun secara otomatis. Kamu tidak perlu mengubah isi kode sama sekali!
 
-1. Buka file script Python ini menggunakan Notepad atau Text Editor lainnya.
-2. Cari baris kode berikut di bagian atas (baris ke-5):
-   ```python
-   sortir_folder = r"C:\Users\rguse\Downloads"
+Cukup ikuti langkah super mudah ini:
+
+1. **Simpan Script:** Pastikan file script Python kamu sudah disimpan di komputer (misalnya dengan nama `auto_sorter.py`).
+2. **Jalankan Script:** Langsung **klik dua kali (double-click)** pada file script tersebut.
+3. **Selesai!** Folder `Downloads` kamu akan langsung rapi seketika, dan script akan otomatis mendaftarkan dirinya ke startup Windows agar terus menjaga kerapihan folder kamu setiap kali PC dinyalakan.
+
+---
